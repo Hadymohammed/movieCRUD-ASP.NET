@@ -13,10 +13,10 @@ namespace movieCRUD_ASP.NET.Data
             modelBuilder.Entity<Actor_Movie>().HasKey(am => new
             {
                 am.ActorId,
-                am.MoiveId
+                am.MovieId
             });
 
-            modelBuilder.Entity<Actor_Movie>().HasOne(m => m.Movie).WithMany(am => am.Actors_Movies).HasForeignKey(m => m.MoiveId);
+            modelBuilder.Entity<Actor_Movie>().HasOne(m => m.Movie).WithMany(am => am.Actors_Movies).HasForeignKey(m => m.MovieId);
 
 
             modelBuilder.Entity<Actor_Movie>().HasOne(m => m.Actor).WithMany(am => am.Actors_Movies).HasForeignKey(m => m.ActorId);
