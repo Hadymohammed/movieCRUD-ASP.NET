@@ -7,7 +7,7 @@ namespace movieCRUD_ASP.NET.Models
         [Key]
         public int Id { get; set; }
         [Required]
-        public int Name { get; set; }   
+        public string Name { get; set; }   
         public string profilePicUrl { get; set; }
         public string Bio { get; set; }
         //Relations

@@ -7,8 +7,8 @@ namespace movieCRUD_ASP.NET.Models
         public int ActorId { get; set; }
         [ForeignKey("ActorId")]
         public Actor Actor { get; set; }
-        public int MoiveId { get; set; }
-        [ForeignKey("MoiveId")]
+        public int MovieId { get; set; }
+        [ForeignKey("MovieId")]
         public Movie Movie { get; set; }
     }
 }

@@ -7,8 +7,8 @@ namespace movieCRUD_ASP.NET.Models
         [Key]
         public int Id { get; set; }
         [Required]
-        public int Name { get; set; }
-        public string logoUrl { get; set; }
+        public string Name { get; set; }
+        public string Logo { get; set; }
         public string Bio { get; set; }
         //Relationships
         public List<Movie> Movies { get; set; }
