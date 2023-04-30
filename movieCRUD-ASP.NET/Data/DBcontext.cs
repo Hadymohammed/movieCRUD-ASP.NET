@@ -27,6 +27,6 @@ namespace movieCRUD_ASP.NET.Data
         public DbSet<Movie> Movies { get; set; }
         public DbSet<Actor_Movie> Actors_Movies { get; set; }
         public DbSet<Cinema> Cinemas { get; set; }
-        public DbSet<Producer> Prducers { get; set; }
+        public DbSet<Producer> Producers { get; set; }
     }
 }
