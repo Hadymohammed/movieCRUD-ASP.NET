@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fZ4F18NVknYB+t2U3nkh/nSxt9W+ykpbyMpOwjWqQQbG2wUUGS/Z2AZC+rw6vZ27pYlWgKciEC/y5TFWIWiM7A==",
+  "dgSpecHash": "mybdMPKtJrhK1ScCoqYcEaeftM7zJ/RsK9lgEBDRRCnBCE5mPkgragpHL0YABEQ2xR5lrrtFAxmaWfIn3eVFrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Abdelhady Mohamed\\Desktop\\try frontend\\C#\\movieCRUD-ASP.NET\\movieCRUD-ASP.NET\\movieCRUD-ASP.NET.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\Abdelhady Mohamed\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Abdelhady Mohamed\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Abdelhady Mohamed\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Abdelhady Mohamed\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512",
     "C:\\Users\\Abdelhady Mohamed\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Abdelhady Mohamed\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Abdelhady Mohamed\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
